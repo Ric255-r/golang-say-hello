@@ -1,5 +1,5 @@
 package golangsayhello
 
 func SayHello() string {
-	return "Hai"
+	return "Hai Dunia"
 }
